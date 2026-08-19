@@ -1,0 +1,3 @@
+#RAXML
+
+raxmlHPC-PTHREADS-AVX2 -f a -x 12345 -p 12345 -s LD16.min4.phy -T 24 -m GTRCAT -n LD16 -# 1000
